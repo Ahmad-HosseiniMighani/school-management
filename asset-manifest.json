@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://ahmad-hosseinimighani.github.io/school-management/static/css/main.730e5cb7.chunk.css",
-    "main.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.b5ff5aae.chunk.js",
-    "main.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.b5ff5aae.chunk.js.map",
+    "main.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.c6b3d744.chunk.js",
+    "main.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.c6b3d744.chunk.js.map",
     "runtime-main.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/runtime-main.098bd4cc.js",
     "runtime-main.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/runtime-main.098bd4cc.js.map",
     "static/css/2.94e7191e.chunk.css": "https://ahmad-hosseinimighani.github.io/school-management/static/css/2.94e7191e.chunk.css",
     "static/js/2.28c58015.chunk.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/2.28c58015.chunk.js",
     "static/js/2.28c58015.chunk.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/2.28c58015.chunk.js.map",
     "index.html": "https://ahmad-hosseinimighani.github.io/school-management/index.html",
-    "precache-manifest.e62a723fd4062b97d7bb7e96a3d3fbb1.js": "https://ahmad-hosseinimighani.github.io/school-management/precache-manifest.e62a723fd4062b97d7bb7e96a3d3fbb1.js",
+    "precache-manifest.1e4c23457c0de44ac04d9055b580572e.js": "https://ahmad-hosseinimighani.github.io/school-management/precache-manifest.1e4c23457c0de44ac04d9055b580572e.js",
     "service-worker.js": "https://ahmad-hosseinimighani.github.io/school-management/service-worker.js",
     "static/css/2.94e7191e.chunk.css.map": "https://ahmad-hosseinimighani.github.io/school-management/static/css/2.94e7191e.chunk.css.map",
     "static/css/main.730e5cb7.chunk.css.map": "https://ahmad-hosseinimighani.github.io/school-management/static/css/main.730e5cb7.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.94e7191e.chunk.css",
     "static/js/2.28c58015.chunk.js",
     "static/css/main.730e5cb7.chunk.css",
-    "static/js/main.b5ff5aae.chunk.js"
+    "static/js/main.c6b3d744.chunk.js"
   ]
 }

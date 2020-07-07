@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76305760deaa4b20f7f3b94edf43d427",
+    "revision": "cbf2823333caaaed9fde9d8faa5079a2",
     "url": "https://ahmad-hosseinimighani.github.io/school-management/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ahmad-hosseinimighani.github.io/school-management/static/css/2.94e7191e.chunk.css"
   },
   {
-    "revision": "2bc31c012515fee3b1d0",
+    "revision": "82e247beb4c7f0ecb792",
     "url": "https://ahmad-hosseinimighani.github.io/school-management/static/css/main.730e5cb7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ahmad-hosseinimighani.github.io/school-management/static/js/2.28c58015.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2bc31c012515fee3b1d0",
-    "url": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.b5ff5aae.chunk.js"
+    "revision": "82e247beb4c7f0ecb792",
+    "url": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.c6b3d744.chunk.js"
   },
   {
     "revision": "3e55f133ad37f105a74b",
