@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/school-management/static/css/main.730e5cb7.chunk.css",
-    "main.js": "/school-management/static/js/main.8501f14d.chunk.js",
-    "main.js.map": "/school-management/static/js/main.8501f14d.chunk.js.map",
-    "runtime-main.js": "/school-management/static/js/runtime-main.b3cd832e.js",
-    "runtime-main.js.map": "/school-management/static/js/runtime-main.b3cd832e.js.map",
-    "static/css/2.8cecc11d.chunk.css": "/school-management/static/css/2.8cecc11d.chunk.css",
-    "static/js/2.28c58015.chunk.js": "/school-management/static/js/2.28c58015.chunk.js",
-    "static/js/2.28c58015.chunk.js.map": "/school-management/static/js/2.28c58015.chunk.js.map",
-    "index.html": "/school-management/index.html",
-    "precache-manifest.9a8df77c16d2325e37b209fd5e791d80.js": "/school-management/precache-manifest.9a8df77c16d2325e37b209fd5e791d80.js",
-    "service-worker.js": "/school-management/service-worker.js",
-    "static/css/2.8cecc11d.chunk.css.map": "/school-management/static/css/2.8cecc11d.chunk.css.map",
-    "static/css/main.730e5cb7.chunk.css.map": "/school-management/static/css/main.730e5cb7.chunk.css.map",
-    "static/js/2.28c58015.chunk.js.LICENSE.txt": "/school-management/static/js/2.28c58015.chunk.js.LICENSE.txt",
-    "static/media/Student-Default-Icon.png": "/school-management/static/media/Student-Default-Icon.5ea83621.png",
-    "static/media/font-face.css": "/school-management/static/media/Vazir.b72f4d53.woff",
-    "static/media/all.css": "/school-management/static/media/fa-solid-900.ec763292.svg"
+    "main.css": "https://ahmad-hosseinimighani.github.io/school-management/static/css/main.730e5cb7.chunk.css",
+    "main.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.dba063ea.chunk.js",
+    "main.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/main.dba063ea.chunk.js.map",
+    "runtime-main.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/runtime-main.098bd4cc.js",
+    "runtime-main.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/runtime-main.098bd4cc.js.map",
+    "static/css/2.94e7191e.chunk.css": "https://ahmad-hosseinimighani.github.io/school-management/static/css/2.94e7191e.chunk.css",
+    "static/js/2.28c58015.chunk.js": "https://ahmad-hosseinimighani.github.io/school-management/static/js/2.28c58015.chunk.js",
+    "static/js/2.28c58015.chunk.js.map": "https://ahmad-hosseinimighani.github.io/school-management/static/js/2.28c58015.chunk.js.map",
+    "index.html": "https://ahmad-hosseinimighani.github.io/school-management/index.html",
+    "precache-manifest.4dc5757f1e966486a689c3bf0047e0d2.js": "https://ahmad-hosseinimighani.github.io/school-management/precache-manifest.4dc5757f1e966486a689c3bf0047e0d2.js",
+    "service-worker.js": "https://ahmad-hosseinimighani.github.io/school-management/service-worker.js",
+    "static/css/2.94e7191e.chunk.css.map": "https://ahmad-hosseinimighani.github.io/school-management/static/css/2.94e7191e.chunk.css.map",
+    "static/css/main.730e5cb7.chunk.css.map": "https://ahmad-hosseinimighani.github.io/school-management/static/css/main.730e5cb7.chunk.css.map",
+    "static/js/2.28c58015.chunk.js.LICENSE.txt": "https://ahmad-hosseinimighani.github.io/school-management/static/js/2.28c58015.chunk.js.LICENSE.txt",
+    "static/media/Student-Default-Icon.png": "https://ahmad-hosseinimighani.github.io/school-management/static/media/Student-Default-Icon.5ea83621.png",
+    "static/media/font-face.css": "https://ahmad-hosseinimighani.github.io/school-management/static/media/Vazir.b72f4d53.woff",
+    "static/media/all.css": "https://ahmad-hosseinimighani.github.io/school-management/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3cd832e.js",
-    "static/css/2.8cecc11d.chunk.css",
+    "static/js/runtime-main.098bd4cc.js",
+    "static/css/2.94e7191e.chunk.css",
     "static/js/2.28c58015.chunk.js",
     "static/css/main.730e5cb7.chunk.css",
-    "static/js/main.8501f14d.chunk.js"
+    "static/js/main.dba063ea.chunk.js"
   ]
 }
