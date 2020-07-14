@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/school-management/static/css/main.730e5cb7.chunk.css",
-    "main.js": "/school-management/static/js/main.55dad210.chunk.js",
-    "main.js.map": "/school-management/static/js/main.55dad210.chunk.js.map",
+    "main.css": "/school-management/static/css/main.59953eb8.chunk.css",
+    "main.js": "/school-management/static/js/main.ceb2579c.chunk.js",
+    "main.js.map": "/school-management/static/js/main.ceb2579c.chunk.js.map",
     "runtime-main.js": "/school-management/static/js/runtime-main.b3cd832e.js",
     "runtime-main.js.map": "/school-management/static/js/runtime-main.b3cd832e.js.map",
     "static/css/2.8cecc11d.chunk.css": "/school-management/static/css/2.8cecc11d.chunk.css",
-    "static/js/2.de68b97a.chunk.js": "/school-management/static/js/2.de68b97a.chunk.js",
-    "static/js/2.de68b97a.chunk.js.map": "/school-management/static/js/2.de68b97a.chunk.js.map",
+    "static/js/2.bf9eac73.chunk.js": "/school-management/static/js/2.bf9eac73.chunk.js",
+    "static/js/2.bf9eac73.chunk.js.map": "/school-management/static/js/2.bf9eac73.chunk.js.map",
     "index.html": "/school-management/index.html",
-    "precache-manifest.b821e3545aef2c90d236e903c38cad7f.js": "/school-management/precache-manifest.b821e3545aef2c90d236e903c38cad7f.js",
+    "precache-manifest.98e6ec85fd4aad7cab1a0326c97a4fce.js": "/school-management/precache-manifest.98e6ec85fd4aad7cab1a0326c97a4fce.js",
     "service-worker.js": "/school-management/service-worker.js",
     "static/css/2.8cecc11d.chunk.css.map": "/school-management/static/css/2.8cecc11d.chunk.css.map",
-    "static/css/main.730e5cb7.chunk.css.map": "/school-management/static/css/main.730e5cb7.chunk.css.map",
-    "static/js/2.de68b97a.chunk.js.LICENSE.txt": "/school-management/static/js/2.de68b97a.chunk.js.LICENSE.txt",
+    "static/css/main.59953eb8.chunk.css.map": "/school-management/static/css/main.59953eb8.chunk.css.map",
+    "static/js/2.bf9eac73.chunk.js.LICENSE.txt": "/school-management/static/js/2.bf9eac73.chunk.js.LICENSE.txt",
     "static/media/Student-Default-Icon.png": "/school-management/static/media/Student-Default-Icon.5ea83621.png",
     "static/media/font-face.css": "/school-management/static/media/Vazir.b72f4d53.woff",
     "static/media/all.css": "/school-management/static/media/fa-solid-900.ec763292.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.b3cd832e.js",
     "static/css/2.8cecc11d.chunk.css",
-    "static/js/2.de68b97a.chunk.js",
-    "static/css/main.730e5cb7.chunk.css",
-    "static/js/main.55dad210.chunk.js"
+    "static/js/2.bf9eac73.chunk.js",
+    "static/css/main.59953eb8.chunk.css",
+    "static/js/main.ceb2579c.chunk.js"
   ]
 }
